@@ -1,0 +1,4 @@
+# Inventory of signed certificates
+# SERIAL NOT_BEFORE NOT_AFTER SUBJECT
+0x0001 2012-07-19T19:14:48GMT 2017-07-19T19:14:48GMT /CN=Puppet CA: puppetmaster1.ec2.internal
+0x0002 2012-07-19T19:14:51GMT 2017-07-19T19:14:51GMT /CN=puppetmaster1.ec2.internal
